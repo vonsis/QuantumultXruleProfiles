@@ -1,0 +1,23 @@
+# Advertising 广告
+# > General
+
+#DOMAIN-KEYWORD,adservice,REJECT
+#DOMAIN-SUFFIX,adcolony.com,REJECT
+#DOMAIN,abema-adx.ameba.jp,REJECT
+
+
+DOMAIN-SUFFIX,uop.umeng.com,REJECT
+DOMAIN-SUFFIX,alogs.umeng.com,REJECT
+DOMAIN-SUFFIX,app-measurement.com,REJECT
+DOMAIN-SUFFIX,extlog.snssdk.com,REJECT
+DOMAIN-SUFFIX,pstatp.comsmr.snssdk.com,REJECT
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,bds.snssdk.com,REJECT
+DOMAIN-SUFFIX,user.pysmei.com,REJECT
+DOMAIN-SUFFIX,upl.baidu.com,REJECT
+DOMAIN-SUFFIX,openapi.baidu.com,REJECT
+DOMAIN-SUFFIX,dm.bytedance.com,REJECT
+DOMAIN-SUFFIX,pangolin.snssdk.com,REJECT
+DOMAIN-SUFFIX,pstatp.com,REJECT
+DOMAIN-SUFFIX,ios.bugly.qq.com,REJECT
+DOMAIN-SUFFIX,sdk.qzbonline.com,REJECT
