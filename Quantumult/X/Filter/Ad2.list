@@ -2,6 +2,22 @@
 #HOST-KEYWORD, adnyg, REJECT
 #HOST-SUFFIX, tagtic.cn, REJECT
 
+#shadowrocket copy to here
+HOST-SUFFIX,pysmei.com,DIRECT
+HOST-SUFFIX,sofire.baidu.com,REJECT
+HOST-SUFFIX,umeng.com,REJECT
+HOST-SUFFIX,sdk.qzbonline.com,REJECT
+HOST-SUFFIX,ios.bugly.qq.com,REJECT
+HOST-SUFFIX,openapi.baidu.com,REJECT
+HOST-SUFFIX,user.pysmei.com,REJECT
+HOST-SUFFIX,upl.baidu.com,REJECT
+HOST-SUFFIX,applog.uc.cn,REJECT
+HOST-SUFFIX,ctobsnssdk.com,REJECT
+HOST-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+HOST-SUFFIX,snssdk.com,REJECT
+HOST-SUFFIX,pglstatp-toutiao.com,REJECT
+HOST-SUFFIX,app-measurement.com,REJECT
+
 #anti ding dian reader AD
 HOST-SUFFIX, uop.umeng.com, REJECT
 HOST-SUFFIX, alogs.umeng.com, REJECT
