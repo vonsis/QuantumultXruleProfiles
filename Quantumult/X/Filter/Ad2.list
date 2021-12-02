@@ -194,7 +194,6 @@ HOST-SUFFIX, activate-sea.adobe.com, REJECT
 HOST-SUFFIX, activate-sjc0.adobe.com, REJECT
 HOST-SUFFIX, activate.wip3.adobe.com, REJECT
 HOST-SUFFIX, active.baofeng.com, REJECT
-HOST-SUFFIX, activeqq.3g.qq.com, REJECT
 HOST-SUFFIX, activity.tuipear.com, REJECT
 HOST-SUFFIX, activity.yuyiya.com, REJECT
 HOST-SUFFIX, actsdk.idreamsky.com, REJECT
@@ -635,7 +634,6 @@ HOST-SUFFIX, app-sj15.marketo.com, REJECT
 HOST-SUFFIX, app-sj30.marketo.com, REJECT
 HOST-SUFFIX, app.starschina.com, REJECT
 HOST-SUFFIX, appsupdate.sinaapp.com, REJECT
-HOST-SUFFIX, appsupport.qq.com, REJECT
 HOST-SUFFIX, app.tanwan.com, REJECT
 HOST-SUFFIX, apptv.w.inmobi.com, REJECT
 HOST-SUFFIX, app.uu.cc, REJECT
@@ -833,12 +831,10 @@ HOST-SUFFIX, brominer.com, REJECT
 HOST-SUFFIX, browsermine.com, REJECT
 HOST-SUFFIX, bshare.optimix.asia, REJECT
 HOST-SUFFIX, bsiet.husky.sogou.com, REJECT
-HOST-SUFFIX, bs.l.qq.com, REJECT
 HOST-SUFFIX, bss.pandora.xiaomi.com, REJECT
 HOST-SUFFIX, bsv.atm.youku.com, REJECT
 HOST-SUFFIX, bsyauqwerd.party, REJECT
 HOST-SUFFIX, btlaunch.baidu.com, REJECT
-HOST-SUFFIX, btrace.video.qq.com, REJECT
 HOST-SUFFIX, bttrack.com, REJECT
 HOST-SUFFIX, bu1.duba.com, REJECT
 HOST-SUFFIX, bu2.duba.com, REJECT
@@ -855,7 +851,6 @@ HOST-SUFFIX, c1.minisplat.cn, REJECT
 HOST-SUFFIX, c1.popads.net, REJECT
 HOST-SUFFIX, c1.ulink.cc, REJECT
 HOST-SUFFIX, c.28487.net, REJECT
-HOST-SUFFIX, c2.l.qq.com, REJECT
 HOST-SUFFIX, c2.popads.net, REJECT
 HOST-SUFFIX, c.35kds.com, REJECT
 HOST-SUFFIX, c8.top267.com, REJECT
@@ -890,7 +885,6 @@ HOST-SUFFIX, cb.baidu.com, REJECT
 HOST-SUFFIX, c.betrad.com, REJECT
 HOST-SUFFIX, c.biz.weibo.com, REJECT
 HOST-SUFFIX, cbjs.baidu.com, REJECT
-HOST-SUFFIX, cb.l.qq.com, REJECT
 HOST-SUFFIX, c.bxb.oupeng.com, REJECT
 HOST-SUFFIX, ccclub.cmbchina.com, REJECT
 HOST-SUFFIX, c.cnzz.com, REJECT
@@ -909,7 +903,6 @@ HOST-SUFFIX, cdn-ads.oss-cn-shanghai.aliyuncs.com, REJECT
 HOST-SUFFIX, cdn.adstract.com, REJECT
 HOST-SUFFIX, cdn.ad.xiaomi.com, REJECT
 HOST-SUFFIX, cdn-analytics.pl, REJECT
-HOST-SUFFIX, cdn.ark.qq.com, REJECT
 HOST-SUFFIX, cdnas.hyperpromote.com, REJECT
 HOST-SUFFIX, cdn.bidvertiser.com, REJECT
 HOST-SUFFIX, cdn.branch.io, REJECT
@@ -960,9 +953,6 @@ HOST-SUFFIX, c.evidon.com, REJECT
 HOST-SUFFIX, cf8d.stat.gw.youmi.net, REJECT
 HOST-SUFFIX, cfcdist.gdn, REJECT
 HOST-SUFFIX, cf.cdn.inmobi.com, REJECT
-HOST-SUFFIX, cfg.imtt.qq.com, REJECT
-HOST-SUFFIX, c.gdt.qq.com, REJECT
-HOST-SUFFIX, c.gj.qq.com, REJECT
 HOST-SUFFIX, chainblock.science, REJECT
 HOST-SUFFIX, chance.adsensor.org, REJECT
 HOST-SUFFIX, channel.fanxing.kugou.com, REJECT
@@ -1002,7 +992,6 @@ HOST-SUFFIX, click.uve.mobile.sina.cn, REJECT
 HOST-SUFFIX, click.uve.weibo.com, REJECT
 HOST-SUFFIX, clickwith.bid, REJECT
 HOST-SUFFIX, click.wrating.com, REJECT
-HOST-SUFFIX, client.show.qq.com, REJECT
 HOST-SUFFIX, client.stats.yinyuetai.com, REJECT
 HOST-SUFFIX, clk.atdmt.com, REJECT
 HOST-SUFFIX, clk.optaim.com, REJECT
@@ -1016,7 +1005,6 @@ HOST-SUFFIX, cloudcdn.gdn, REJECT
 HOST-SUFFIX, cloudcdn.yousee.com, REJECT
 HOST-SUFFIX, cloud-miner.de, REJECT
 HOST-SUFFIX, cloud-miner.eu, REJECT
-HOST-SUFFIX, c.l.qq.com, REJECT
 HOST-SUFFIX, cm066.getui.igexin.com, REJECT
 HOST-SUFFIX, cm.adgrx.com, REJECT
 HOST-SUFFIX, cm.adkmob.com, REJECT
@@ -1030,7 +1018,6 @@ HOST-SUFFIX, cm.cn.miaozhen.com, REJECT
 HOST-SUFFIX, cmc.tanx.com, REJECT
 HOST-SUFFIX, cm.ctnsnet.com, REJECT
 HOST-SUFFIX, cm.dmp.sina.cn, REJECT
-HOST-SUFFIX, cm.e.qq.com, REJECT
 HOST-SUFFIX, cm.eyereturn.com, REJECT
 HOST-SUFFIX, cm.fancyapi.com, REJECT
 HOST-SUFFIX, cm.g.doubleclick.net, REJECT
@@ -1039,7 +1026,6 @@ HOST-SUFFIX, cm.he2d.com, REJECT
 HOST-SUFFIX, c.minisplat.cn, REJECT
 HOST-SUFFIX, cm.ipinyou.com, REJECT
 HOST-SUFFIX, cm.jd.com, REJECT
-HOST-SUFFIX, cm.l.qq.com, REJECT
 HOST-SUFFIX, cm.mct01.com, REJECT
 HOST-SUFFIX, cm.netseer.com, REJECT
 HOST-SUFFIX, cmop.mgtv.com, REJECT
@@ -1252,7 +1238,6 @@ HOST-SUFFIX, d2.sinaimg.cn, REJECT
 HOST-SUFFIX, d31qbv1cthcecs.cloudfront.net, REJECT
 HOST-SUFFIX, d36eyd5j1kt1m6.cloudfront.net, REJECT
 HOST-SUFFIX, d3f.houyi.baofeng.net, REJECT
-HOST-SUFFIX, d3g.qq.com, REJECT
 HOST-SUFFIX, d3.sina.com.cn, REJECT
 HOST-SUFFIX, d3.sinaimg.cn, REJECT
 HOST-SUFFIX, d3v1lb83psg9di.cloudfront.net, REJECT
@@ -1403,9 +1388,7 @@ HOST-SUFFIX, download.adsage.com, REJECT
 HOST-SUFFIX, download.bav.baidu.com, REJECT
 HOST-SUFFIX, download.mackeeper.com, REJECT
 HOST-SUFFIX, download.sd.baidu.com, REJECT
-HOST-SUFFIX, download.sj.qq.com, REJECT
 HOST-SUFFIX, download.zhushou.sogou.com, REJECT
-HOST-SUFFIX, dp3.qq.com, REJECT
 HOST-SUFFIX, dp.559.cc, REJECT
 HOST-SUFFIX, dp.g.doubleclick.net, REJECT
 HOST-SUFFIX, dp.im.weibo.cn, REJECT
@@ -1526,7 +1509,6 @@ HOST-SUFFIX, e-p4p.163.com, REJECT
 HOST-SUFFIX, epochtimes.com, REJECT
 HOST-SUFFIX, epochtimes.org, REJECT
 HOST-SUFFIX, e.pubbirdf.com, REJECT
-HOST-SUFFIX, e.qq.com, REJECT
 HOST-SUFFIX, ereg.adobe.com, REJECT
 HOST-SUFFIX, ereg.wip3.adobe.com, REJECT
 HOST-SUFFIX, ermaseuc.ru, REJECT
@@ -1535,7 +1517,6 @@ HOST-SUFFIX, e.rpaulfrank.com, REJECT
 HOST-SUFFIX, err.ifengcloud.ifeng.com, REJECT
 HOST-SUFFIX, ers.baidu.com, REJECT
 HOST-SUFFIX, etacontent.com, REJECT
-HOST-SUFFIX, etg.qq.com, REJECT
 HOST-SUFFIX, ethmedialab.info, REJECT
 HOST-SUFFIX, eth-pocket.com, REJECT
 HOST-SUFFIX, eth-pocket.de, REJECT
@@ -1549,7 +1530,6 @@ HOST-SUFFIX, eu.cfcnet.top, REJECT
 HOST-SUFFIX, eucsoft.com, REJECT
 HOST-SUFFIX, evengparme.com, REJECT
 HOST-SUFFIX, event.ksosoft.com, REJECT
-HOST-SUFFIX, eventlog.beacon.qq.com, REJECT
 HOST-SUFFIX, eventlog.hd.baofeng.com, REJECT
 HOST-SUFFIX, event.mackeeper.com, REJECT
 HOST-SUFFIX, events3.adcolony.com, REJECT
@@ -1566,7 +1546,6 @@ HOST-SUFFIX, exdynsrv.com, REJECT
 HOST-SUFFIX, ex.mobmore.com, REJECT
 HOST-SUFFIX, exp.3g.ifeng.com, REJECT
 HOST-SUFFIX, ex.puata.info, REJECT
-HOST-SUFFIX, ex.qq.com, REJECT
 HOST-SUFFIX, e.xroun.com, REJECT
 HOST-SUFFIX, ex.tanx.com, REJECT
 HOST-SUFFIX, extlog.snssdk.com, REJECT
@@ -1630,8 +1609,6 @@ HOST-SUFFIX, fm.p0y.cn, REJECT
 HOST-SUFFIX, fm.qzone.qq.com, REJECT
 HOST-SUFFIX, fms.ipinyou.com, REJECT
 HOST-SUFFIX, focusbaiduafp.allyes.com, REJECT
-HOST-SUFFIX, fodder.qq.com, REJECT
-HOST-SUFFIX, fodder.tc.qq.com, REJECT
 HOST-SUFFIX, folder.adfuture.cn, REJECT
 HOST-SUFFIX, folder.adsunflower.com, REJECT
 HOST-SUFFIX, folder.advmob.cn, REJECT
@@ -1649,7 +1626,6 @@ HOST-SUFFIX, fs.uc.nearme.com.cn, REJECT
 HOST-SUFFIX, fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com, REJECT
 HOST-SUFFIX, fun.adx.admaster.com.cn, REJECT
 HOST-SUFFIX, fw.adsafeprotected.com, REJECT
-HOST-SUFFIX, fw.qq.com, REJECT
 HOST-SUFFIX, fw.vpon.com, REJECT
 HOST-SUFFIX, fxc.aiquxs.com, REJECT
 HOST-SUFFIX, fych.uranus.sogou.com, REJECT
@@ -1790,7 +1766,6 @@ HOST-SUFFIX, hlrcv.stage.adobe.com, REJECT
 HOST-SUFFIX, hm2.cnzz.com, REJECT
 HOST-SUFFIX, hm3.cnzz.com, REJECT
 HOST-SUFFIX, hm.baidu.com, REJECT
-HOST-SUFFIX, hm.l.qq.com, REJECT
 HOST-SUFFIX, hmma.baidu.com, REJECT
 HOST-SUFFIX, h.msn.com, REJECT
 HOST-SUFFIX, hnb2c.adsame.com, REJECT
@@ -1819,7 +1794,6 @@ HOST-SUFFIX, h.sora.yoyi.com.cn, REJECT
 HOST-SUFFIX, hs.qhupdate.com, REJECT
 HOST-SUFFIX, html.atm.youku.com, REJECT
 HOST-SUFFIX, httpdns.push.oppomobile.com, REJECT
-HOST-SUFFIX, httpring.qq.com, REJECT
 HOST-SUFFIX, ht.www.sogou.com, REJECT
 HOST-SUFFIX, hub5pn.wap.sandai.net, REJECT
 HOST-SUFFIX, huichuan.sm.cn, REJECT
@@ -1887,9 +1861,7 @@ HOST-SUFFIX, iflow.uczzd.com, REJECT
 HOST-SUFFIX, iflow.uczzd.com.cn, REJECT
 HOST-SUFFIX, iflow.uczzd.net, REJECT
 HOST-SUFFIX, iflyad.bj.openstorage.cn, REJECT
-HOST-SUFFIX, if.mingxing.qq.com, REJECT
 HOST-SUFFIX, ifs.tanx.com, REJECT
-HOST-SUFFIX, i.gdt.qq.com, REJECT
 HOST-SUFFIX, ig.nukefans.net, REJECT
 HOST-SUFFIX, i.go.sohu.com, REJECT
 HOST-SUFFIX, igrid.org, REJECT
@@ -1916,14 +1888,12 @@ HOST-SUFFIX, images.taboola.com, REJECT
 HOST-SUFFIX, image.yiqifa.com, REJECT
 HOST-SUFFIX, image.zzd.sm.cn, REJECT
 HOST-SUFFIX, imagzine.oppomobile.com, REJECT
-HOST-SUFFIX, imc.l.qq.com, REJECT
 HOST-SUFFIX, img01.taotaosou.cn, REJECT
 HOST-SUFFIX, img0.egou.com, REJECT
 HOST-SUFFIX, img1.126.net, REJECT
 HOST-SUFFIX, img1.g.pptv.com, REJECT
 HOST-SUFFIX, img1.km.com, REJECT
 HOST-SUFFIX, img1.pcfg.cache.wps.cn, REJECT
-HOST-SUFFIX, img1.sj.qq.com, REJECT
 HOST-SUFFIX, img1.tanv.com, REJECT
 HOST-SUFFIX, img2.126.net, REJECT
 HOST-SUFFIX, img2.578965.com, REJECT
@@ -1982,7 +1952,6 @@ HOST-SUFFIX, im-x.jd.com, REJECT
 HOST-SUFFIX, in1.feed.uu.cc, REJECT
 HOST-SUFFIX, in1.secure.uu.cc, REJECT
 HOST-SUFFIX, in.aikan6.com, REJECT
-HOST-SUFFIX, info.3g.qq.com, REJECT
 HOST-SUFFIX, info.analysis.kp.sec.miui.com, REJECT
 HOST-SUFFIX, infocenter.meizu.com, REJECT
 HOST-SUFFIX, info.downsave.com, REJECT
@@ -2049,7 +2018,6 @@ HOST-SUFFIX, jiayi1.oss-cn-shanghai.aliyuncs.com, REJECT
 HOST-SUFFIX, jifen.2345.com, REJECT
 HOST-SUFFIX, jifendownload.2345.cn, REJECT
 HOST-SUFFIX, jihehuaban.com.cn, REJECT
-HOST-SUFFIX, jingjia.qq.com, REJECT
 HOST-SUFFIX, jira.vpon.com, REJECT
 HOST-SUFFIX, jizzads.com, REJECT
 HOST-SUFFIX, jldnserror1.wo.com.cn, REJECT
@@ -2061,11 +2029,9 @@ HOST-SUFFIX, j.microad.net, REJECT
 HOST-SUFFIX, jp.as.pptv.com, REJECT
 HOST-SUFFIX, jpg.cooguo.com, REJECT
 HOST-SUFFIX, jpg.inte.sogoucdn.com, REJECT
-HOST-SUFFIX, jpush.html5.qq.com, REJECT
 HOST-SUFFIX, jqcdn01.herokuapp.com, REJECT
 HOST-SUFFIX, jqcdn03.herokuapp.com, REJECT
 HOST-SUFFIX, jqcdn2.herokuapp.com, REJECT
-HOST-SUFFIX, jqmt.qq.com, REJECT
 HOST-SUFFIX, jquery-uim.download, REJECT
 HOST-SUFFIX, jrj.adsame.com, REJECT
 HOST-SUFFIX, js1151.yongkang6.com, REJECT
@@ -2117,7 +2083,6 @@ HOST-SUFFIX, js.nahnoji.cz, REJECT
 HOST-SUFFIX, jsnp.golden1.sogou.com, REJECT
 HOST-SUFFIX, js.ptengine.cn, REJECT
 HOST-SUFFIX, js.pub.tom.com, REJECT
-HOST-SUFFIX, jsqmt.qq.com, REJECT
 HOST-SUFFIX, jssdk.cnzz.com, REJECT
 HOST-SUFFIX, js.stat.ijinshan.com, REJECT
 HOST-SUFFIX, js.tongji.linezing.com, REJECT
@@ -2131,7 +2096,6 @@ HOST-SUFFIX, jurtym.cf, REJECT
 HOST-SUFFIX, jurty.ml, REJECT
 HOST-SUFFIX, juxiao.adsmogo.net, REJECT
 HOST-SUFFIX, j.wan.liebao.cn, REJECT
-HOST-SUFFIX, j.wit.qq.com, REJECT
 HOST-SUFFIX, jxlog.istreamsche.com, REJECT
 HOST-SUFFIX, jy.ggweb.net, REJECT
 HOST-SUFFIX, j.yljiaoluo.com, REJECT
